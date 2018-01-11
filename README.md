@@ -1,2 +1,0 @@
-# dirtyPaw
-C++project
